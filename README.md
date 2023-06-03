@@ -1,6 +1,6 @@
-# Ongoing Book: Signal Processing and Machine Learning
+# (Ongoing Book) Deep Learning: From Zero to Hero
 
-This repository contains an ongoing book that explores the connection between signal processing and machine learning, with a particular emphasis on machine and deep learning techniques. The book aims to provide a comprehensive understanding of the fundamental concepts and practical applications in these domains, highlighting their interconnectedness and synergy.
+This repository contains an ongoing book with an emphasis on machine and deep learning techniques. The book aims to provide a comprehensive understanding of the fundamental concepts and practical applications in these domains.
 
 ## Contents
 
@@ -20,7 +20,7 @@ This repository contains an ongoing book that explores the connection between si
   - 1.3.5 Filter Design
   - 1.3.6 Cross-Correlation
 
-### Chapter 2: Neural Networks
+### Next Topics: 
 - 2.1 Introduction to Neural Networks
 - 2.2 Multilayer Perceptron (MLP)
 - 2.3 Convolutional Neural Networks (CNN)
@@ -28,8 +28,6 @@ This repository contains an ongoing book that explores the connection between si
 - 2.5 Transformers and Attention Mechanism
 - 2.6 Deep Learning Frameworks
 - 2.7 Training and Optimization Techniques
-
-### Chapter 3: Advanced Topics in Machine Learning
 - 3.1 Generative Adversarial Networks (GANs)
 - 3.2 Reinforcement Learning
 - 3.3 Transfer Learning and Fine-Tuning
