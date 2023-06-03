@@ -1,6 +1,8 @@
 # (Ongoing Book) Deep Learning: From Zero to Hero
 
-This repository contains an ongoing book with an emphasis on machine and deep learning techniques. The book aims to provide a comprehensive understanding of the fundamental concepts and practical applications in these domains.
+## Purpose
+Machine learning, deep learning, and artificial intelligence (AI) are rapidly evolving fields that has transformed the way we live, work, and interact with technology. It has become an integral part of many industries, including healthcare, finance, transportation, and more. As the world becomes increasingly data-driven, the ability to extract insights from large datasets has become critical for businesses and individuals alike. In this ongoing book, we explore the fundamentals of machine learning, from the basics of data analysis and modeling to the latest advancements in artificial intelligence. Through practical examples and real-world applications, we provide a comprehensive overview of this exciting and dynamic field.
+
 
 ## Contents
 
@@ -21,36 +23,28 @@ This repository contains an ongoing book with an emphasis on machine and deep le
   - 1.3.6 Cross-Correlation
 
 ### Next Topics: 
-- 2.1 Introduction to Neural Networks
-- 2.2 Multilayer Perceptron (MLP)
-- 2.3 Convolutional Neural Networks (CNN)
-- 2.4 Recurrent Neural Networks (RNN)
-- 2.5 Transformers and Attention Mechanism
-- 2.6 Deep Learning Frameworks
-- 2.7 Training and Optimization Techniques
-- 3.1 Generative Adversarial Networks (GANs)
-- 3.2 Reinforcement Learning
-- 3.3 Transfer Learning and Fine-Tuning
-- 3.4 Autoencoders and Variational Autoencoders
-- 3.5 Graph Neural Networks (GNNs)
-- 3.6 Explainability and Interpretability in Machine Learning
-- 3.7 Deployment and Productionizing ML Models
-
-## Purpose
-
-The purpose of this ongoing book is to provide a comprehensive resource on the intersection of signal processing and machine learning, with a particular focus on machine and deep learning techniques. It aims to serve as a valuable reference for students, researchers, and practitioners interested in understanding the theoretical foundations, practical implementations, and emerging trends in these fields.
+- Introduction to Neural Networks
+- Multilayer Perceptron (MLP)
+- Convolutional Neural Networks (CNN)
+- Transfer Learning and Fine-Tuning
+- Recurrent Neural Networks (RNN)
+- Transformers and Attention Mechanism
+- Deep Learning Frameworks
+- Training and Optimization Techniques
+- Generative Adversarial Networks (GANs)
+- Reinforcement Learning
+- Autoencoders and Variational Autoencoders
+- Graph Neural Networks (GNNs)
+- Explainability and Interpretability in Machine Learning
 
 ## Contributions
 
-Contributions to the book are highly encouraged. If you notice any errors, have suggestions for improvements, or would like to contribute additional sections or chapters, please feel free to submit pull requests or open issues in the GitHub repository.
+Contributions to the book are highly encouraged. If you notice any errors, have suggestions for improvements, or would like to contribute additional sections or chapters, please feel free to submit pull requests or open issues in the GitHub repository and I will provide you with the latex source code. You can also reach me by email, in English or Hebrew, at [mail](talbenha@gmail.com).
 
 ## License
 
 This book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt the content for non-commercial purposes, as long as you provide attribution and distribute any derivative works under the same license.
 
-## Acknowledgments
-
-We would like to express our gratitude to the open-source community for their valuable contributions and to the authors and researchers whose work has influenced this book. Special thanks to the contributors who have provided feedback and suggestions to improve the content.
 
 We hope you find this ongoing book informative and insightful. Stay tuned for more chapters and updates!
 
