@@ -41,10 +41,7 @@ Machine learning, deep learning, and artificial intelligence (AI) are rapidly ev
 
 Contributions to the book are highly encouraged. If you notice any errors, have suggestions for improvements, or would like to contribute additional sections or chapters, please feel free to submit pull requests or open issues in the GitHub repository and I will provide you with the latex source code. You can also reach me by email, in English or Hebrew, at [mail](talbenha@gmail.com).
 
-## License
-
-This book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt the content for non-commercial purposes, as long as you provide attribution and distribute any derivative works under the same license.
-
+## 
 
 We hope you find this ongoing book informative and insightful. Stay tuned for more chapters and updates!
 
