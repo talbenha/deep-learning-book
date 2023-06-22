@@ -7,6 +7,7 @@ Machine learning, deep learning, and artificial intelligence (AI) are rapidly ev
 ## Contents
 
 ### Chapter 1: Signal Processing Fundamentals
+<details>
 - 1.1 Introduction
 - 1.2 Fourier Analysis
   - 1.2.1 Fourier Series
@@ -21,6 +22,22 @@ Machine learning, deep learning, and artificial intelligence (AI) are rapidly ev
   - 1.3.4 Fourier transform and Convolution
   - 1.3.5 Filter Design
   - 1.3.6 Cross-Correlation
+</details>
+
+### Chapter 2: Machine Learning 
+<details>
+- 2.1 Nearest Neighbor
+- 2.2 Dimensionality Reduction
+  - 2.2.1 Principal Component Analysis (PCA)
+  - 2.2.2 Linear Discriminant Analysis (LDA)
+  - 2.2.3 Comparison Between PCA and LDA
+  - 2.2.4 Non-negative Matrix Factorization (NMF)
+  - 2.2.5 t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- 2.3 Clustering
+  - 2.3.1 k-Means Clustering
+  - 2.3.2 Hierarchical Clustering
+  - 2.3.3 DBSCAN Clustering
+</details>
 
 ### Next Topics: 
 - Introduction to Neural Networks
